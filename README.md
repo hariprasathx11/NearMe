@@ -149,6 +149,7 @@ KRISHNASWAMY COLLEGE.html
 ## OUTPUT:
 ![alt text](hari/mapapp/static/1.png)
 
+
 ![alt text](<hari/mapapp/static/SILVER BEACH OUTPUT.png>)
 
 ![alt text](<hari/mapapp/static/REGIONAL TRANSPORT OFFICE OUTPUT.png>)
